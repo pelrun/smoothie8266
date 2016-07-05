@@ -1,3 +1,7 @@
 [submodule "libesphttpd"]
 	path = libesphttpd
-	url = http://git.spritesserver.nl/libesphttpd.git/
+	url = https://github.com/Spritetm/libesphttpd.git
+[submodule "webif-pack"]
+	path = webif-pack
+	url = https://github.com/Smoothieware/webif-pack.git
+	branch = master
